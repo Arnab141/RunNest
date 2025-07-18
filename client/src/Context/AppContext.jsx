@@ -20,7 +20,8 @@ export const AppProvider = ({ children }) => {
     const [output, setOutput] = useState('');
     const [loading, setLoading] = useState(false);
     const [themeMode, setThemeMode] = useState('dark'); // or 'light'
-    const url="http://localhost:3000/api";
+    // const url="http://localhost:3000/api";
+    const url="https://runnest.onrender.com/api";
 
 
 
