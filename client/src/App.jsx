@@ -49,7 +49,7 @@ function AppRoutes() {
           />
         </div>
       )}
-      <footer class=" py-4 bg-gray-900 text-white text-sm">© 2025 Arnab Pramanik. All rights reserved.</footer>
+      {/* <footer class=" py-4 bg-gray-900 text-white text-sm">© 2025 Arnab Pramanik. All rights reserved.</footer> */}
     </main>
   );
 }
