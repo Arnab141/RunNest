@@ -42,6 +42,10 @@ function Sidebar() {
        <footer className="text-center text-xs text-gray-400 border-t border-gray-700 mt-6 pt-3">
         © 2025 Arnab Pramanik
       </footer>
+      <footer className="text-center text-xs text-gray-400 border-t border-gray-700 pt-3">
+       © 2025 Arnab Pramanik
+      </footer>
+
     </aside>
   );
 }
