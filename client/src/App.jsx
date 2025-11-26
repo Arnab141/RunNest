@@ -49,6 +49,7 @@ function AppRoutes() {
           />
         </div>
       )}
+      <footer class=" py-4 bg-gray-900 text-white text-sm">© 2025 Arnab Pramanik. All rights reserved.</footer>
     </main>
   );
 }
@@ -66,7 +67,7 @@ function App() {
       <div className="flex min-h-screen bg-gray-100 font-sans">
         <Sidebar />
         <AppRoutes />
-        <footer class=" py-4 bg-gray-900 text-white text-sm">© 2025 Arnab Pramanik. All rights reserved.</footer>
+        
       </div>
     </Router>
   );
